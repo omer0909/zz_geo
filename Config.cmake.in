@@ -1,0 +1,4 @@
+@PACKAGE_INIT@
+
+set(zz_geo_INCLUDE_DIRS "${CMAKE_CURRENT_LIST_DIR}/../include")
+set(zz_geo_LIBRARIES "${CMAKE_CURRENT_LIST_DIR}/../lib/libzz_geo.a")
